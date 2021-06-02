@@ -1,5 +1,5 @@
 {
-  "name": "react-tracking",
+  "name": "@flightstats/airframe-react-tracking",
   "version": "8.1.1",
   "description": "Declarative tracking for React apps.",
   "keywords": [
